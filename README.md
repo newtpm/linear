@@ -1,7 +1,6 @@
 ## Practical Business Applications for Linear Regression
 
-This report showcases ways that linear regression can be applied to business problems. It acknowledges that linear regression is a simple model, but argues that the simplicity can be its strength in certain situations.
-
+This report (Linear_Regression_for_Business.md) showcases ways that linear regression can be applied to business problems. It acknowledges that linear regression is a simple model, but argues that the simplicity can be its strength in certain situations.
 
 
 ## Motivation
