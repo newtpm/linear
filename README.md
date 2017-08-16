@@ -11,5 +11,5 @@ I am frequently asked to improve a business' financial performance and have used
 
 ## Installation
 
-The RMarkdown code and (hypothetical) dataset is nearby. 
+The RMarkdown code (Linear Regression for Business.Rmd) and hypothetical dataset (Days Storage.csv) is nearby. 
 
